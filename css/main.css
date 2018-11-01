@@ -2162,7 +2162,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 @media (max-width: 767.98px) {
 	.work-process-area .single-work-process {
-		width: 100%
+		width: 100%;
+		text-align: -webkit-center;
 	}
 }
 .work-process-area .single-work-process .work-icon-box {
@@ -2185,7 +2186,7 @@ img {
 .work-process-area .single-work-process .caption {
 	font-size: 16px;
 	margin-top: 20px;
-	width: 120px
+	width: 120px;
 }
 .work-process-area .work-arrow {
 	margin-top: -30px
