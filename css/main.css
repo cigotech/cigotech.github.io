@@ -1943,7 +1943,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 	bottom: 0
 }
 .banner-area {
-	background: url(../img/banner-bg.jpg) center;
+	background: url(../img/banner-bg-low.jpg) center;
 	background-size: cover
 }
 @media (max-width: 767px) {
