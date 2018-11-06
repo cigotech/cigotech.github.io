@@ -2266,7 +2266,7 @@ img {
 	margin: 0;
 	font-weight: normal;
 	font-size: 14px;
-	text-transform: capitalize
+	/*text-transform: capitalize*/
 }
 .faq-area .faq-left .mn-accordion .accordion-item .accordion-content {
 	overflow: hidden;
