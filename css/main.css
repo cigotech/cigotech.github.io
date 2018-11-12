@@ -2043,6 +2043,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 		margin-bottom: 30px
 	}
 }
+
+.anchor a {
+	position: absolute;
+	left: 0px;
+	top: -130px;
+}
+
 .home-about-area {
 	background-color: #f9f9ff
 }
@@ -2722,6 +2729,7 @@ img {
 }
 .footer-text a, .footer-text i {
 	color: #988fff
+	vertical-align: bottom;
 }
 .whole-wrap {
 	background-color: #fff
