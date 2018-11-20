@@ -947,6 +947,25 @@ h1, h2, h3, h4, h5, h6 {
 	left: 0;
 	border-radius: 50%
 }
+
+.unordered-list-right li {
+	position: relative;
+	padding-right: 30px;
+	line-height: 1.82em !important
+}
+
+.unordered-list-right li:after {
+	content: "";
+	position: absolute;
+	width: 14px;
+	height: 14px;
+	border: 3px solid #988fff;
+	background: #fff;
+	top: 4px;
+	right: 0;
+	border-radius: 50%
+}
+
 .ordered-list {
 	margin-left: 30px
 }
